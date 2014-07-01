@@ -22,5 +22,4 @@ Firmware without lookahead acceleration (Sprinter vs. Marlin) produced
 an interesting effect: pronounced edges at each corner of the outer
 cylinder. This gave them an old school character.
 
-Text object created with text2surface, and polygons reduced with
-Meshlab. Necronomicon symbol created in QCAD.
+Text object created with [text2surface](https://github.com/brad/text2surface), and polygons reduced with Meshlab. Necronomicon symbol created in QCAD.
